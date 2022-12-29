@@ -1,0 +1,7 @@
+body{
+     /* background-image: url(watson.jpg); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background:linear-gradient(red,blue,yellow,black,white);
+
+}

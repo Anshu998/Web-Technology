@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+#anshuid{
+    font-family: 'Playfair Display', serif;
+    color: red;
+}
+#heading{
+    background-color: aquamarine;
+    font-size: 50px;
+  
+}
+.paragraph{
+    background-color: brown;
+    color: blue;
+    font: size 25px;
+    font-style:italic ;
+}
+  #p2{
+    background-color: yellow;
+    color: darkgreen;
+    font-weight: bold;
+    font-size: 35px;
+  }
